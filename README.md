@@ -6,7 +6,8 @@
 <a href="https://www.instagram.com/Daniela_MGX/">
   <img align="left" alt="Daniela's Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg"" />
 </a>
-
+<br>
+<br>
   <img align="right" alt="GIF" src="https://media.tenor.com/images/1140e3cf45e40a267aff7d9477178a7c/tenor.gif" />
 
 <h3 align="center">Talking about Personal Stuffs: </h3>
