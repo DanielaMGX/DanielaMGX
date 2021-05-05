@@ -35,7 +35,7 @@
 ![Slack](https://img.shields.io/badge/-Slack-gray.svg?&style=flat-square&logo=slack&logoColor=red)
 <br>
 <br>
-<h3 align="center">Some Stats :tongue:</h3>
+<h3 align="center">Some Stats 📊</h3>
 
 
 <h4 align="center">Top languages :tongue:</h4>
