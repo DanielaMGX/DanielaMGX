@@ -12,11 +12,7 @@
 
 <h3 align="center">Talking about Personal Stuffs: </h3>
 
-- 👨‍💻 I'm software developer working on [Guane Enterprises](http://guane.com.co) and an software engineering student.
-- 🔭 I’m currently working on API build with FastAPI and Docker
-- 🌱 I’m currently learning Docker and Kubernetes
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love to play Minecraft in my free times 
+Experienced Backend Developer with 2.5 years of expertise in Python. Proven track record of leading and managing complex projects involving cross-functional teams. Proficient in office tools and fluent in English with a C1 level.
 <br>
 <br>
 
