@@ -12,7 +12,7 @@
 
 <h3 align="center">Talking about Personal Stuffs: </h3>
 
-Experienced Backend Developer with 2.5 years of expertise in Python. Proven track record of leading and managing complex projects involving cross-functional teams. Proficient in office tools and fluent in English with a C1 level.
+Experienced Backend Developer with 4 years of expertise in Python. Proven track record of leading and managing complex projects involving cross-functional teams. Proficient in office tools and fluent in English with a C1 level.
 <br>
 <br>
 
